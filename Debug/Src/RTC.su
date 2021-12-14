@@ -1,0 +1,5 @@
+RTC.c:23:5:bcdToDec	0	static
+RTC.c:33:9:decToBcd	0	static
+RTC.c:42:22:getTime	56	static
+RTC.c:66:7:setTime	40	static
+RTC.c:86:7:getTemp	40	static
